@@ -1,0 +1,13 @@
+Link: http://localhost:5001
+INFO:     Will watch for changes in these directories: ['/workspace/apex-dashboard']
+INFO:     Uvicorn running on http://0.0.0.0:5001 (Press CTRL+C to quit)
+INFO:     Started reloader process [2970] using WatchFiles
+INFO:     Started server process [3041]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:37216 - "GET / HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [3041]
+INFO:     Stopping reloader process [2970]
